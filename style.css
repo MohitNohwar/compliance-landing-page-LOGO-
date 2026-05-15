@@ -1703,8 +1703,9 @@ body {
   line-height: 32px;
   font-weight: 600;
   position: relative;
-  width: 193px;
+  width: 100%;
   height: 32px;
+  white-space: nowrap;
 }
 
 .mobile-view .we-decode-complex-compliance-rules-into-simple-actionable-steps {
